@@ -1,0 +1,669 @@
+{
+  "home_page_url": "https://getgeonos.com",
+  "items": [
+    {
+      "content_html": "<p><a href=\"https://getgeonos.com/facts/geonos\">Geonos</a>&#x27; registry declares 11 planned surfaces and a pre-launch state; US agencies can evaluate documented coverage, dated evidence and availability before choosing.</p>",
+      "content_markdown": "[Geonos](https://getgeonos.com/facts/geonos)' registry declares 11 planned surfaces and a pre-launch state; US agencies can evaluate documented coverage, dated evidence and availability before choosing.",
+      "content_sha256": "9c29d6bbec09e559ae05df398744e0256ee1e7d1afff1f7749c6f27a0a145353",
+      "content_text": "Geonos' registry declares 11 planned surfaces and a pre-launch state; US agencies can evaluate documented coverage, dated evidence and availability before choosing.",
+      "id": "geonos-agency-platforms-en-us",
+      "language": "en-US",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "cebc20ec1fa413292f02a7b2961fe1e5b3b671fae03aa1a2d1f5184e327087bc",
+      "sources": [
+        {
+          "id": "geonos-registry",
+          "name": "Geonos",
+          "publisher": "Geonos",
+          "title": "Live Geonos Brand Facts Registry",
+          "url": "https://getgeonos.com/facts/geonos",
+          "verified_at": "2026-11-15"
+        }
+      ],
+      "title": "AI visibility platforms for agencies",
+      "url": "https://getgeonos.com/industries/agencies#capsule-geonos-agency-platforms-en-us",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p>Para agencias, <a href=\"https://getgeonos.com/facts/geonos\">Geonos</a> declara 11 superficies y sigue en prelanzamiento; evalúa cobertura, fuentes fechadas y disponibilidad comprobable antes de elegir una plataforma.</p>",
+      "content_markdown": "Para agencias, [Geonos](https://getgeonos.com/facts/geonos) declara 11 superficies y sigue en prelanzamiento; evalúa cobertura, fuentes fechadas y disponibilidad comprobable antes de elegir una plataforma.",
+      "content_sha256": "17b6fca641c5deeccfb2c94cb7245836cceb3d8fbfae3461fdcd31bebe118435",
+      "content_text": "Para agencias, Geonos declara 11 superficies y sigue en prelanzamiento; evalúa cobertura, fuentes fechadas y disponibilidad comprobable antes de elegir una plataforma.",
+      "id": "geonos-agency-platforms-es-mx",
+      "language": "es-MX",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "de078e4127314857c9cb3da04d97663bdd68a503a0387ec4d75d728871f1a71a",
+      "sources": [
+        {
+          "id": "geonos-registry",
+          "name": "Geonos",
+          "publisher": "Geonos",
+          "title": "Live Geonos Brand Facts Registry",
+          "url": "https://getgeonos.com/facts/geonos",
+          "verified_at": "2026-11-15"
+        }
+      ],
+      "title": "Plataformas de visibilidad en IA para agencias",
+      "url": "https://getgeonos.com/es/industries/agencies#capsule-geonos-agency-platforms-es-mx",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p><a href=\"https://getgeonos.com/pricing\">Geonos</a>&#x27; pre-launch Alexa for Shopping and Amazon SEO starts at USD 399/month for up to 10 ASINs across the US, UK and Mexico.</p>",
+      "content_markdown": "[Geonos](https://getgeonos.com/pricing)' pre-launch Alexa for Shopping and Amazon SEO starts at USD 399/month for up to 10 ASINs across the US, UK and Mexico.",
+      "content_sha256": "3bb3ea2000db02f37fc0462ad4faf819e2fffaa94bc67e7801f2dd78d04e0487",
+      "content_text": "Geonos' pre-launch Alexa for Shopping and Amazon SEO starts at USD 399/month for up to 10 ASINs across the US, UK and Mexico.",
+      "id": "geonos-amazon-readiness-en-us",
+      "language": "en-US",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "6d06f67e77e78b50c4a98fff4bf35486084f0b20ef7e92508d93702819056f59",
+      "sources": [
+        {
+          "id": "pricing",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/pricing",
+          "verified_at": "2026-11-15"
+        },
+        {
+          "id": "markets",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/about",
+          "verified_at": "2026-11-15"
+        },
+        {
+          "id": "launch",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/",
+          "verified_at": "2026-11-15"
+        },
+        {
+          "id": "currency_reference",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/es",
+          "verified_at": "2026-11-15"
+        }
+      ],
+      "title": "Alexa for Shopping and Amazon SEO",
+      "url": "https://getgeonos.com/platform/alexa-for-shopping#capsule-geonos-amazon-readiness-en-us",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p><a href=\"https://getgeonos.com/pricing\">Geonos</a> prepara Alexa para Compras y SEO de Amazon: desde USD 399/mes por hasta 10 ASIN, con México entre sus mercados.</p>",
+      "content_markdown": "[Geonos](https://getgeonos.com/pricing) prepara Alexa para Compras y SEO de Amazon: desde USD 399/mes por hasta 10 ASIN, con México entre sus mercados.",
+      "content_sha256": "9eaed283c588c62b123cccdc2382cb228dee1f709f6179f4470d5ed7959dafc7",
+      "content_text": "Geonos prepara Alexa para Compras y SEO de Amazon: desde USD 399/mes por hasta 10 ASIN, con México entre sus mercados.",
+      "id": "geonos-amazon-readiness-es-mx",
+      "language": "es-MX",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "f61e35546bacf3f14c722823bc7abd3184640206213da0313e768d9516a8b187",
+      "sources": [
+        {
+          "id": "pricing",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/pricing",
+          "verified_at": "2026-11-15"
+        },
+        {
+          "id": "markets",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/about",
+          "verified_at": "2026-11-15"
+        },
+        {
+          "id": "launch",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/",
+          "verified_at": "2026-11-15"
+        },
+        {
+          "id": "currency_reference",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/es",
+          "verified_at": "2026-11-15"
+        }
+      ],
+      "title": "Alexa para Compras y SEO de Amazon",
+      "url": "https://getgeonos.com/es/platform/alexa-for-shopping#capsule-geonos-amazon-readiness-es-mx",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p>US brands: <a href=\"https://developers.openai.com/api/docs/bots\">OpenAI</a> documents OAI-SearchBot for ChatGPT search; <a href=\"https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers\">Google</a> describes <a href=\"https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers\">Google</a>-Extended controls for Gemini Apps grounding, with <a href=\"https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers\">Google</a> guidance checked on 2026-11-16.</p>",
+      "content_markdown": "US brands: [OpenAI](https://developers.openai.com/api/docs/bots) documents OAI-SearchBot for ChatGPT search; [Google](https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers) describes [Google](https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers)-Extended controls for Gemini Apps grounding, with [Google](https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers) guidance checked on 2026-11-16.",
+      "content_sha256": "c2e59fcd5d1aa40e05d179170c3a437ad13650c1d0ec5280ce3c9b9eddfccfbb",
+      "content_text": "US brands: OpenAI documents OAI-SearchBot for ChatGPT search; Google describes Google-Extended controls for Gemini Apps grounding, with Google guidance checked on 2026-11-16.",
+      "id": "geonos-brand-discovery-en-us",
+      "language": "en-US",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "dc83b156c0e8e07ee8d8cf0f06c89a75b2513530141d2497d7f3eb07e2170221",
+      "sources": [
+        {
+          "id": "openai-bots",
+          "name": "OpenAI",
+          "publisher": "OpenAI",
+          "title": "Overview of OpenAI Crawlers",
+          "url": "https://developers.openai.com/api/docs/bots",
+          "verified_at": "2026-11-14"
+        },
+        {
+          "id": "google-gemini-apps",
+          "name": "Google",
+          "publisher": "Google",
+          "title": "Google common crawlers — Google-Extended and Gemini Apps",
+          "url": "https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers",
+          "verified_at": "2026-11-16"
+        }
+      ],
+      "title": "Brand appearance in ChatGPT and Gemini",
+      "url": "https://getgeonos.com/blog/how-to-rank-in-chatgpt#capsule-geonos-brand-discovery-en-us",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p><a href=\"https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers\">Google</a> documenta <a href=\"https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers\">Google</a>-Extended para grounding de Gemini Apps; <a href=\"https://developers.openai.com/api/docs/bots\">OpenAI</a> identifica OAI-SearchBot para búsquedas de ChatGPT. Revisión para México: noviembre de 2026.</p>",
+      "content_markdown": "[Google](https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers) documenta [Google](https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers)-Extended para grounding de Gemini Apps; [OpenAI](https://developers.openai.com/api/docs/bots) identifica OAI-SearchBot para búsquedas de ChatGPT. Revisión para México: noviembre de 2026.",
+      "content_sha256": "e0cbdf20c1be128ed4673ca512dd9e8bedcdd8b0957e5f1366ca88b9185b7116",
+      "content_text": "Google documenta Google-Extended para grounding de Gemini Apps; OpenAI identifica OAI-SearchBot para búsquedas de ChatGPT. Revisión para México: noviembre de 2026.",
+      "id": "geonos-brand-discovery-es-mx",
+      "language": "es-MX",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "66fcca15aac44cb637ab4e16785d45af20e802463f13a406d5cb83919e46dfff",
+      "sources": [
+        {
+          "id": "openai-bots",
+          "name": "OpenAI",
+          "publisher": "OpenAI",
+          "title": "Overview of OpenAI Crawlers",
+          "url": "https://developers.openai.com/api/docs/bots",
+          "verified_at": "2026-11-14"
+        },
+        {
+          "id": "google-gemini-apps",
+          "name": "Google",
+          "publisher": "Google",
+          "title": "Google common crawlers — Google-Extended and Gemini Apps",
+          "url": "https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers",
+          "verified_at": "2026-11-16"
+        }
+      ],
+      "title": "Aparecer en ChatGPT y Gemini",
+      "url": "https://getgeonos.com/es/blog/por-que-chatgpt-recomienda-a-tu-competencia#capsule-geonos-brand-discovery-es-mx",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p>For brands and agencies, <a href=\"https://muckrack.com/blog/how-we-built-what-is-ai-reading\">Muck Rack</a>&#x27;s May 2026 study reports 84% earned-media citations: aggregate context, rather than a measurement of your brand.</p>",
+      "content_markdown": "For brands and agencies, [Muck Rack](https://muckrack.com/blog/how-we-built-what-is-ai-reading)'s May 2026 study reports 84% earned-media citations: aggregate context, rather than a measurement of your brand.",
+      "content_sha256": "277d46c9adde2880ef1521a448ce0a38500233d56bbe82405d363818c1057e0c",
+      "content_text": "For brands and agencies, Muck Rack's May 2026 study reports 84% earned-media citations: aggregate context, rather than a measurement of your brand.",
+      "id": "geonos-category-sources-en-us",
+      "language": "en-US",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "ffb10392a03479175a6c209a0cbb97abd207ee8ed9dfeb0acb2310da29fc65e2",
+      "sources": [
+        {
+          "id": "muck-rack-may",
+          "name": "Muck Rack",
+          "publisher": "Muck Rack",
+          "title": "How we built What Is AI Reading — Muck Rack, May 2026",
+          "url": "https://muckrack.com/blog/how-we-built-what-is-ai-reading",
+          "verified_at": "2026-11-16"
+        }
+      ],
+      "title": "Sources cited for brands and agencies",
+      "url": "https://getgeonos.com/platform/citations#capsule-geonos-category-sources-en-us",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p>Para marcas y agencias, <a href=\"https://muckrack.com/blog/how-we-built-what-is-ai-reading\">Muck Rack</a> reportó 84% de citas desde medios ganados en mayo de 2026: un agregado, no su medición propia.</p>",
+      "content_markdown": "Para marcas y agencias, [Muck Rack](https://muckrack.com/blog/how-we-built-what-is-ai-reading) reportó 84% de citas desde medios ganados en mayo de 2026: un agregado, no su medición propia.",
+      "content_sha256": "ff8c9bb0602c2c380ab063ca74400648c6a65893424a47ffc57d4537a3d80309",
+      "content_text": "Para marcas y agencias, Muck Rack reportó 84% de citas desde medios ganados en mayo de 2026: un agregado, no su medición propia.",
+      "id": "geonos-category-sources-es-mx",
+      "language": "es-MX",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "8d2862094a857ec8d9514fe6caf94c75fd7093c7a73922806e555db3c07b5069",
+      "sources": [
+        {
+          "id": "muck-rack-may",
+          "name": "Muck Rack",
+          "publisher": "Muck Rack",
+          "title": "How we built What Is AI Reading — Muck Rack, May 2026",
+          "url": "https://muckrack.com/blog/how-we-built-what-is-ai-reading",
+          "verified_at": "2026-11-16"
+        }
+      ],
+      "title": "Fuentes citadas para marcas y agencias",
+      "url": "https://getgeonos.com/es/platform/citations#capsule-geonos-category-sources-es-mx",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p>For US brands, <a href=\"https://developers.openai.com/api/docs/bots\">OpenAI</a>&#x27;s guidance checked 2026-11-14 separates OAI-SearchBot for ChatGPT search from GPTBot for training; these are different uses of content.</p>",
+      "content_markdown": "For US brands, [OpenAI](https://developers.openai.com/api/docs/bots)'s guidance checked 2026-11-14 separates OAI-SearchBot for ChatGPT search from GPTBot for training; these are different uses of content.",
+      "content_sha256": "7d141d3b73951626c90360f64e7b3d3a28652ec566f6ea9abb4bc7aa7a650a29",
+      "content_text": "For US brands, OpenAI's guidance checked 2026-11-14 separates OAI-SearchBot for ChatGPT search from GPTBot for training; these are different uses of content.",
+      "id": "geonos-chatgpt-discovery-en-us",
+      "language": "en-US",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "7ee1c39aa8a13daefd51a78559162c7f5f38a8a27e27dfe8c070c95b90876870",
+      "sources": [
+        {
+          "id": "openai-bots",
+          "name": "OpenAI",
+          "publisher": "OpenAI",
+          "title": "Overview of OpenAI Crawlers",
+          "url": "https://developers.openai.com/api/docs/bots",
+          "verified_at": "2026-11-14"
+        }
+      ],
+      "title": "Brand discovery in ChatGPT",
+      "url": "https://getgeonos.com/blog/how-to-rank-in-chatgpt#capsule-geonos-chatgpt-discovery-en-us",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p>Para sitios mexicanos, <a href=\"https://developers.openai.com/api/docs/bots\">OpenAI</a> distingue OAI-SearchBot para búsqueda y GPTBot para entrenamiento; son usos distintos, según su documentación verificada el 2026-11-14.</p>",
+      "content_markdown": "Para sitios mexicanos, [OpenAI](https://developers.openai.com/api/docs/bots) distingue OAI-SearchBot para búsqueda y GPTBot para entrenamiento; son usos distintos, según su documentación verificada el 2026-11-14.",
+      "content_sha256": "4b3b91e99b9df4b910d50eb1f4815e58613a7013cd16536a7ee4c0d3655ae4f3",
+      "content_text": "Para sitios mexicanos, OpenAI distingue OAI-SearchBot para búsqueda y GPTBot para entrenamiento; son usos distintos, según su documentación verificada el 2026-11-14.",
+      "id": "geonos-chatgpt-discovery-es-mx",
+      "language": "es-MX",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "84e5995afb4c121fc7488ea9e56e517f1f5cf4265e6040b6eeb8b777708a86da",
+      "sources": [
+        {
+          "id": "openai-bots",
+          "name": "OpenAI",
+          "publisher": "OpenAI",
+          "title": "Overview of OpenAI Crawlers",
+          "url": "https://developers.openai.com/api/docs/bots",
+          "verified_at": "2026-11-14"
+        }
+      ],
+      "title": "Cómo aparece una marca en ChatGPT",
+      "url": "https://getgeonos.com/es/blog/por-que-chatgpt-recomienda-a-tu-competencia#capsule-geonos-chatgpt-discovery-es-mx",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p>For US sites, <a href=\"https://developers.google.com/search/docs/appearance/ai-features\">Google</a> documents AI Mode&#x27;s <a href=\"https://developers.google.com/search/docs/appearance/ai-features\">Google</a> indexing; <a href=\"https://developers.openai.com/api/docs/bots\">OpenAI</a> documents OAI-SearchBot for ChatGPT search, checked 2026-11-15 and 2026-11-14 respectively.</p>",
+      "content_markdown": "For US sites, [Google](https://developers.google.com/search/docs/appearance/ai-features) documents AI Mode's [Google](https://developers.google.com/search/docs/appearance/ai-features) indexing; [OpenAI](https://developers.openai.com/api/docs/bots) documents OAI-SearchBot for ChatGPT search, checked 2026-11-15 and 2026-11-14 respectively.",
+      "content_sha256": "86ad9c62efe8f33c29628d3c1dd359c6913637497f0736a239cf1886b2b4f896",
+      "content_text": "For US sites, Google documents AI Mode's Google indexing; OpenAI documents OAI-SearchBot for ChatGPT search, checked 2026-11-15 and 2026-11-14 respectively.",
+      "id": "geonos-engine-comparison-en-us",
+      "language": "en-US",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "d79f09d5f5286e87cf44057e6c4b61a09a62158e3a23f8a327838d12e79c31af",
+      "sources": [
+        {
+          "id": "google-ai",
+          "name": "Google",
+          "publisher": "Google",
+          "title": "AI features and your website — Google Search Central",
+          "url": "https://developers.google.com/search/docs/appearance/ai-features",
+          "verified_at": "2026-11-15"
+        },
+        {
+          "id": "openai-bots",
+          "name": "OpenAI",
+          "publisher": "OpenAI",
+          "title": "Overview of OpenAI Crawlers",
+          "url": "https://developers.openai.com/api/docs/bots",
+          "verified_at": "2026-11-14"
+        }
+      ],
+      "title": "Google AI Mode and ChatGPT citations",
+      "url": "https://getgeonos.com/platform/engine-comparison#capsule-geonos-engine-comparison-en-us",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p>En México, <a href=\"https://developers.google.com/search/docs/appearance/ai-features\">Google</a> vincula AI Mode con su índice; <a href=\"https://developers.openai.com/api/docs/bots\">OpenAI</a> identifica OAI-SearchBot para búsquedas de ChatGPT. Documentación revisada: 2026-11-15 y 2026-11-14, respectivamente.</p>",
+      "content_markdown": "En México, [Google](https://developers.google.com/search/docs/appearance/ai-features) vincula AI Mode con su índice; [OpenAI](https://developers.openai.com/api/docs/bots) identifica OAI-SearchBot para búsquedas de ChatGPT. Documentación revisada: 2026-11-15 y 2026-11-14, respectivamente.",
+      "content_sha256": "01a7b2b24d71b71e0af66fccfb4f4f2785ac5e8dd8a9123848511e7d9562d835",
+      "content_text": "En México, Google vincula AI Mode con su índice; OpenAI identifica OAI-SearchBot para búsquedas de ChatGPT. Documentación revisada: 2026-11-15 y 2026-11-14, respectivamente.",
+      "id": "geonos-engine-comparison-es-mx",
+      "language": "es-MX",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "edb15b19d084cfec5403115b2b0d75cacd16f24e48e87a8d81bd8a8dd39cf3fa",
+      "sources": [
+        {
+          "id": "google-ai",
+          "name": "Google",
+          "publisher": "Google",
+          "title": "AI features and your website — Google Search Central",
+          "url": "https://developers.google.com/search/docs/appearance/ai-features",
+          "verified_at": "2026-11-15"
+        },
+        {
+          "id": "openai-bots",
+          "name": "OpenAI",
+          "publisher": "OpenAI",
+          "title": "Overview of OpenAI Crawlers",
+          "url": "https://developers.openai.com/api/docs/bots",
+          "verified_at": "2026-11-14"
+        }
+      ],
+      "title": "Citas en Google AI Mode y ChatGPT",
+      "url": "https://getgeonos.com/es/platform/engine-comparison#capsule-geonos-engine-comparison-es-mx",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p>According to <a href=\"https://getgeonos.com/about\">Geonos</a>, its pre-launch roadmap covers 11 surfaces, including ChatGPT, Perplexity and Gemini; access to the platform remains closed.</p>",
+      "content_markdown": "According to [Geonos](https://getgeonos.com/about), its pre-launch roadmap covers 11 surfaces, including ChatGPT, Perplexity and Gemini; access to the platform remains closed.",
+      "content_sha256": "25f8431bd866703b05e62516390db306315a0738c7ac6e992b5fa3838c0871ef",
+      "content_text": "According to Geonos, its pre-launch roadmap covers 11 surfaces, including ChatGPT, Perplexity and Gemini; access to the platform remains closed.",
+      "id": "geonos-engine-tracking-en-us",
+      "language": "en-US",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "e657922f4b363da2b5dfd22b7cf33851f49edca178950355b567df11db4ffb64",
+      "sources": [
+        {
+          "id": "surfaces",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/about",
+          "verified_at": "2026-11-15"
+        },
+        {
+          "id": "launch",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/",
+          "verified_at": "2026-11-15"
+        }
+      ],
+      "title": "Tracking ChatGPT, Perplexity and Gemini",
+      "url": "https://getgeonos.com/platform/ai-engines#capsule-geonos-engine-tracking-en-us",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p>Según <a href=\"https://getgeonos.com/about\">Geonos</a>, su hoja de ruta de prelanzamiento contempla 11 superficies, entre ellas ChatGPT, Perplexity y Gemini; el acceso a la plataforma sigue cerrado.</p>",
+      "content_markdown": "Según [Geonos](https://getgeonos.com/about), su hoja de ruta de prelanzamiento contempla 11 superficies, entre ellas ChatGPT, Perplexity y Gemini; el acceso a la plataforma sigue cerrado.",
+      "content_sha256": "a408001115228529f9cf450df9d291fa92c36262c9aeef29f52f8effa114e23e",
+      "content_text": "Según Geonos, su hoja de ruta de prelanzamiento contempla 11 superficies, entre ellas ChatGPT, Perplexity y Gemini; el acceso a la plataforma sigue cerrado.",
+      "id": "geonos-engine-tracking-es-mx",
+      "language": "es-MX",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "5f20d4cfc02781535b109e76e1b9a0cb769023e663b0014f71617587f3d3cf56",
+      "sources": [
+        {
+          "id": "surfaces",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/about",
+          "verified_at": "2026-11-15"
+        },
+        {
+          "id": "launch",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/",
+          "verified_at": "2026-11-15"
+        }
+      ],
+      "title": "Seguimiento de ChatGPT, Perplexity y Gemini",
+      "url": "https://getgeonos.com/es/platform/ai-engines#capsule-geonos-engine-tracking-es-mx",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p>For US sites, <a href=\"https://ahrefs.com/blog/schema-ai-citations/\">Ahrefs</a>&#x27; 2026-05-11 study of 1,885 pages found no major AI citation uplift from adding JSON-LD against controls.</p>",
+      "content_markdown": "For US sites, [Ahrefs](https://ahrefs.com/blog/schema-ai-citations/)' 2026-05-11 study of 1,885 pages found no major AI citation uplift from adding JSON-LD against controls.",
+      "content_sha256": "bc28421d293f2fd618dd9781d64078b40a84e896717ccfd3f715d627c0906a09",
+      "content_text": "For US sites, Ahrefs' 2026-05-11 study of 1,885 pages found no major AI citation uplift from adding JSON-LD against controls.",
+      "id": "geonos-geo-experiments-en-us",
+      "language": "en-US",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "50ef599467b9d5279abc3700282ffc9258f0f9c705da27ed29e7063f03d383e4",
+      "sources": [
+        {
+          "id": "ahrefs-schema",
+          "name": "Ahrefs",
+          "publisher": "Ahrefs",
+          "title": "Schema and AI citations — Ahrefs, 11 May 2026",
+          "url": "https://ahrefs.com/blog/schema-ai-citations/",
+          "verified_at": "2026-11-16"
+        }
+      ],
+      "title": "GEO testing and attribution",
+      "url": "https://getgeonos.com/platform/geo-optimization#capsule-geonos-geo-experiments-en-us",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p>En México, antes de invertir en schema: <a href=\"https://ahrefs.com/blog/schema-ai-citations/\">Ahrefs</a> publicó el 2026-05-11 un estudio de 1,885 páginas; añadir JSON-LD no demostró aumentar citas.</p>",
+      "content_markdown": "En México, antes de invertir en schema: [Ahrefs](https://ahrefs.com/blog/schema-ai-citations/) publicó el 2026-05-11 un estudio de 1,885 páginas; añadir JSON-LD no demostró aumentar citas.",
+      "content_sha256": "eed3efba094d5834b87da999194e0eff97a5dc61c62459682efaed880ad7fa59",
+      "content_text": "En México, antes de invertir en schema: Ahrefs publicó el 2026-05-11 un estudio de 1,885 páginas; añadir JSON-LD no demostró aumentar citas.",
+      "id": "geonos-geo-experiments-es-mx",
+      "language": "es-MX",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "e6dfd83f8af5bcb275dfa25962fe6ddc147170ec44b6eac1d1acdf3b3b367d22",
+      "sources": [
+        {
+          "id": "ahrefs-schema",
+          "name": "Ahrefs",
+          "publisher": "Ahrefs",
+          "title": "Schema and AI citations — Ahrefs, 11 May 2026",
+          "url": "https://ahrefs.com/blog/schema-ai-citations/",
+          "verified_at": "2026-11-16"
+        }
+      ],
+      "title": "Pruebas GEO y atribución",
+      "url": "https://getgeonos.com/es/platform/geo-optimization#capsule-geonos-geo-experiments-es-mx",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p>For US teams, <a href=\"https://getgeonos.com/facts/geonos\">Geonos</a> publishes Alexa pricing per ASIN; <a href=\"https://www.azoma.ai/agents/alexa-shopping\">Azoma</a> documents Alexa tracking. Compare general GEO pricing separately, using sources checked 2026-11-16.</p>",
+      "content_markdown": "For US teams, [Geonos](https://getgeonos.com/facts/geonos) publishes Alexa pricing per ASIN; [Azoma](https://www.azoma.ai/agents/alexa-shopping) documents Alexa tracking. Compare general GEO pricing separately, using sources checked 2026-11-16.",
+      "content_sha256": "43a31b3dc2dd762fb8f322382f003dc0ce54380a17f31a0ffd24478b1e4a141d",
+      "content_text": "For US teams, Geonos publishes Alexa pricing per ASIN; Azoma documents Alexa tracking. Compare general GEO pricing separately, using sources checked 2026-11-16.",
+      "id": "geonos-geonos-comparison-en-us",
+      "language": "en-US",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "a73b6a3e0e05ac90ac9c3e9146a1029f6d6f6cbe022df12276ae27b7c36ab9a8",
+      "sources": [
+        {
+          "id": "geonos-registry",
+          "name": "Geonos",
+          "publisher": "Geonos",
+          "title": "Live Geonos Brand Facts Registry",
+          "url": "https://getgeonos.com/facts/geonos",
+          "verified_at": "2026-11-15"
+        },
+        {
+          "id": "azoma-official-alexa",
+          "name": "Azoma",
+          "publisher": "Azoma",
+          "title": "Azoma Alexa for Shopping — official product page",
+          "url": "https://www.azoma.ai/agents/alexa-shopping",
+          "verified_at": "2026-11-16"
+        }
+      ],
+      "title": "Geonos and other GEO platforms",
+      "url": "https://getgeonos.com/alternatives#capsule-geonos-geonos-comparison-en-us",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p><a href=\"https://getgeonos.com/facts/geonos\">Geonos</a> publica precios por ASIN para Alexa para Compras; <a href=\"https://www.azoma.ai/agents/alexa-shopping\">Azoma</a> documenta seguimiento en Alexa. Compara GEO por separado, con fuentes revisadas el 2026-11-16.</p>",
+      "content_markdown": "[Geonos](https://getgeonos.com/facts/geonos) publica precios por ASIN para Alexa para Compras; [Azoma](https://www.azoma.ai/agents/alexa-shopping) documenta seguimiento en Alexa. Compara GEO por separado, con fuentes revisadas el 2026-11-16.",
+      "content_sha256": "2d12d21033de8fda68188bd8dc9922120a030b5046f42e06be510f7d4747bfdf",
+      "content_text": "Geonos publica precios por ASIN para Alexa para Compras; Azoma documenta seguimiento en Alexa. Compara GEO por separado, con fuentes revisadas el 2026-11-16.",
+      "id": "geonos-geonos-comparison-es-mx",
+      "language": "es-MX",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "4610abd019bf1a2313d22b6c29c45ede0c24afe53be8e5b1975b7bb10f3e5ed9",
+      "sources": [
+        {
+          "id": "geonos-registry",
+          "name": "Geonos",
+          "publisher": "Geonos",
+          "title": "Live Geonos Brand Facts Registry",
+          "url": "https://getgeonos.com/facts/geonos",
+          "verified_at": "2026-11-15"
+        },
+        {
+          "id": "azoma-official-alexa",
+          "name": "Azoma",
+          "publisher": "Azoma",
+          "title": "Azoma Alexa for Shopping — official product page",
+          "url": "https://www.azoma.ai/agents/alexa-shopping",
+          "verified_at": "2026-11-16"
+        }
+      ],
+      "title": "Geonos frente a otras plataformas GEO",
+      "url": "https://getgeonos.com/es/alternativas#capsule-geonos-geonos-comparison-es-mx",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p>For US teams evaluating Mexico, <a href=\"https://getgeonos.com/facts/geonos\">Geonos</a>&#x27; registry lists 11 planned surfaces; verify markets, dated evidence and pre-launch availability rather than assuming access.</p>",
+      "content_markdown": "For US teams evaluating Mexico, [Geonos](https://getgeonos.com/facts/geonos)' registry lists 11 planned surfaces; verify markets, dated evidence and pre-launch availability rather than assuming access.",
+      "content_sha256": "0f06d542148e51633bf13986c0234fc5ae2be1fd688922994326594c59d36493",
+      "content_text": "For US teams evaluating Mexico, Geonos' registry lists 11 planned surfaces; verify markets, dated evidence and pre-launch availability rather than assuming access.",
+      "id": "geonos-mexico-evaluation-en-us",
+      "language": "en-US",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "b5e5464733a449b8c25cd0f1ed99a9ed8f6b3976e65a9e7fa6e364a6fbc7b41a",
+      "sources": [
+        {
+          "id": "geonos-registry",
+          "name": "Geonos",
+          "publisher": "Geonos",
+          "title": "Live Geonos Brand Facts Registry",
+          "url": "https://getgeonos.com/facts/geonos",
+          "verified_at": "2026-11-15"
+        }
+      ],
+      "title": "Evaluating AI visibility tools in Mexico",
+      "url": "https://getgeonos.com/platform#capsule-geonos-mexico-evaluation-en-us",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p>Para México y LATAM, el registro de <a href=\"https://getgeonos.com/facts/geonos\">Geonos</a> declara 11 superficies en prelanzamiento: revisa cobertura, fuentes, fecha y disponibilidad antes de contratar.</p>",
+      "content_markdown": "Para México y LATAM, el registro de [Geonos](https://getgeonos.com/facts/geonos) declara 11 superficies en prelanzamiento: revisa cobertura, fuentes, fecha y disponibilidad antes de contratar.",
+      "content_sha256": "43bc6ac80b24d61d9d888e4e6477f91d9dc879e15eb513dbf9eeffe5b0b76b79",
+      "content_text": "Para México y LATAM, el registro de Geonos declara 11 superficies en prelanzamiento: revisa cobertura, fuentes, fecha y disponibilidad antes de contratar.",
+      "id": "geonos-mexico-evaluation-es-mx",
+      "language": "es-MX",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "6ff7a53607034741f4daf48ebfaf0134f3ae6428f504c249fa20c2c3eb98ef7a",
+      "sources": [
+        {
+          "id": "geonos-registry",
+          "name": "Geonos",
+          "publisher": "Geonos",
+          "title": "Live Geonos Brand Facts Registry",
+          "url": "https://getgeonos.com/facts/geonos",
+          "verified_at": "2026-11-15"
+        }
+      ],
+      "title": "Evaluar herramientas de visibilidad en IA en México",
+      "url": "https://getgeonos.com/es/platform#capsule-geonos-mexico-evaluation-es-mx",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p>According to <a href=\"https://getgeonos.com/about\">Geonos</a>, its pre-launch brand roadmap combines Google SEO, GEO and AEO across 11 discovery surfaces; Amazon SEO and Alexa for Shopping launch first.</p>",
+      "content_markdown": "According to [Geonos](https://getgeonos.com/about), its pre-launch brand roadmap combines Google SEO, GEO and AEO across 11 discovery surfaces; Amazon SEO and Alexa for Shopping launch first.",
+      "content_sha256": "c36669c17ae92bc7987fab64ffa808de08467676c0edbd4c5b7ec6ff45f2246c",
+      "content_text": "According to Geonos, its pre-launch brand roadmap combines Google SEO, GEO and AEO across 11 discovery surfaces; Amazon SEO and Alexa for Shopping launch first.",
+      "id": "geonos-spanish-platform-en-us",
+      "language": "en-US",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "ac180ff02cc287594b693c0fcf8505f99bfb93b9bcd19a1b7d4d18c125901e3c",
+      "sources": [
+        {
+          "id": "surfaces",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/about",
+          "verified_at": "2026-11-15"
+        },
+        {
+          "id": "launch",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/",
+          "verified_at": "2026-11-15"
+        },
+        {
+          "id": "what_is_geonos",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/",
+          "verified_at": "2026-11-15"
+        }
+      ],
+      "title": "GEO platform in Spanish",
+      "url": "https://getgeonos.com/platform#capsule-geonos-spanish-platform-en-us",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p><a href=\"https://getgeonos.com/about\">Geonos</a> prevé 11 superficies, entre ellas SEO de Google, GEO y AEO; Alexa para Compras y SEO de Amazon se lanzarán primero.</p>",
+      "content_markdown": "[Geonos](https://getgeonos.com/about) prevé 11 superficies, entre ellas SEO de Google, GEO y AEO; Alexa para Compras y SEO de Amazon se lanzarán primero.",
+      "content_sha256": "52bb21817b812be7c655ac4a5a4ea83a1d5ddd5539022cec8a69503633e5747d",
+      "content_text": "Geonos prevé 11 superficies, entre ellas SEO de Google, GEO y AEO; Alexa para Compras y SEO de Amazon se lanzarán primero.",
+      "id": "geonos-spanish-platform-es-mx",
+      "language": "es-MX",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "f6aea45f161bf6943c6af600d0f75c7b88b67411cd1f1a4763494816fdadc3c0",
+      "sources": [
+        {
+          "id": "surfaces",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/about",
+          "verified_at": "2026-11-15"
+        },
+        {
+          "id": "launch",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/",
+          "verified_at": "2026-11-15"
+        },
+        {
+          "id": "what_is_geonos",
+          "name": "Geonos",
+          "url": "https://getgeonos.com/",
+          "verified_at": "2026-11-15"
+        }
+      ],
+      "title": "Plataforma GEO en español",
+      "url": "https://getgeonos.com/es/platform#capsule-geonos-spanish-platform-es-mx",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p><a href=\"https://getgeonos.com/blog/ai-visibility-tool-vs-platform\">Geonos</a>&#x27; draft method dated 2026-11-16 treats tools as bounded tasks and platforms as connected tasks; assess documented scope, evidence, markets, pricing and availability.</p>",
+      "content_markdown": "[Geonos](https://getgeonos.com/blog/ai-visibility-tool-vs-platform)' draft method dated 2026-11-16 treats tools as bounded tasks and platforms as connected tasks; assess documented scope, evidence, markets, pricing and availability.",
+      "content_sha256": "b0d2c9d23e90d537ff46c106647806c66694baefa09bcad230ef17d422c90b91",
+      "content_text": "Geonos' draft method dated 2026-11-16 treats tools as bounded tasks and platforms as connected tasks; assess documented scope, evidence, markets, pricing and availability.",
+      "id": "geonos-tool-vs-platform-en-us",
+      "language": "en-US",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "5f3b6b45835bcc19dda020db170099dd34e7fe33170ef21cb36dc2603f3087ca",
+      "sources": [
+        {
+          "id": "methodology-en-US",
+          "name": "Geonos",
+          "publisher": "Geonos",
+          "title": "Proposed Geonos tool/platform methodology — en-US",
+          "url": "https://getgeonos.com/blog/ai-visibility-tool-vs-platform",
+          "verified_at": "2026-11-16"
+        }
+      ],
+      "title": "AI visibility tool versus platform",
+      "url": "https://getgeonos.com/blog/ai-visibility-tool-vs-platform#capsule-geonos-tool-vs-platform-en-us",
+      "date_published": "2026-11-16T00:00:00Z"
+    },
+    {
+      "content_html": "<p><a href=\"https://getgeonos.com/es/blog/herramienta-vs-plataforma-de-visibilidad-en-ia\">Geonos</a> propone al 2026-11-16: herramienta para una tarea, plataforma para tareas relacionadas; decide con cobertura, evidencia, mercados, precios y disponibilidad verificables.</p>",
+      "content_markdown": "[Geonos](https://getgeonos.com/es/blog/herramienta-vs-plataforma-de-visibilidad-en-ia) propone al 2026-11-16: herramienta para una tarea, plataforma para tareas relacionadas; decide con cobertura, evidencia, mercados, precios y disponibilidad verificables.",
+      "content_sha256": "a062872d825374214ad2ebdf889409eddaf6cb7366a12be7f381c05e456b4e11",
+      "content_text": "Geonos propone al 2026-11-16: herramienta para una tarea, plataforma para tareas relacionadas; decide con cobertura, evidencia, mercados, precios y disponibilidad verificables.",
+      "id": "geonos-tool-vs-platform-es-mx",
+      "language": "es-MX",
+      "registry_version": "ad1069879f0df641e77ac3bc6ae585ecc876799091f6c84c777dd0fc70a155a4",
+      "site_content_sha256": "62081c9c71248ee4ee97a41a3d1a37aa82ee84bf12f22a2abb4e2d647ea8ac5d",
+      "sources": [
+        {
+          "id": "methodology-es-MX",
+          "name": "Geonos",
+          "publisher": "Geonos",
+          "title": "Proposed Geonos tool/platform methodology — es-MX",
+          "url": "https://getgeonos.com/es/blog/herramienta-vs-plataforma-de-visibilidad-en-ia",
+          "verified_at": "2026-11-16"
+        }
+      ],
+      "title": "Herramienta o plataforma de visibilidad en IA",
+      "url": "https://getgeonos.com/es/platform#capsule-geonos-tool-vs-platform-es-mx",
+      "date_published": "2026-11-16T00:00:00Z"
+    }
+  ],
+  "title": "Geonos verified answer capsules",
+  "version": "https://jsonfeed.org/version/1.1",
+  "feed_url": "https://getgeonos.com/fanout/feed.json",
+  "description": "Approved Geonos answers with sources and verification dates."
+}
